@@ -1,13 +1,1 @@
-Base url    =   http://api.neverskip.com/api/mapp6.php   
-
-Login post 
- 
-{"api_name":"appRegistration","app_key":"ANID001","inst_key":"preAuth","rmn_no":"9543681682##"}
-
-
-Login Sms Post
-
-
-{"api_name":"appActivation","app_key":"ANID001","inst_key":"preAuth","act_code":"9876","rmn_no":"9543681682##","dev_id":"APA91bFth6WnwEoHsy08RwklG1PYjlJzp5zlB7QM00EqUTDp0EHVoWIVPCgYa5WhwpqMmwcxNHfIXPvPs8EO1Q4lsPNtBCmC8fpQYlEH9s2YH5Mq_ODb-RAMbPH9uFomdtGkZJh0Qdv9","dev_ref":"Motorola XT1635-02"}
-
-testing_in testingbranch
+test two
